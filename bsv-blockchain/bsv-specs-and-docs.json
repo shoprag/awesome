@@ -7,7 +7,10 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/ts-sdk",
         "branch": "master",
-        "include": "[\"**/*.md\", \"**/*.ts\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts"
+        ]
       }
     },
     {
@@ -15,7 +18,9 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/BRCs",
         "branch": "master",
-        "include": "[\"**/*.md\"]"
+        "include": [
+          "**/*.md"
+        ]
       }
     },
     {
@@ -23,7 +28,10 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/wallet-toolbox",
         "branch": "master",
-        "include": "[\"**/*.md\", \"**/*.ts\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts"
+        ]
       }
     },
     {
@@ -31,7 +39,10 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/lars",
         "branch": "master",
-        "include": "[\"**/*.md\", \"**/*.ts\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts"
+        ]
       }
     },
     {
@@ -39,7 +50,10 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/cars-cli",
         "branch": "master",
-        "include": "[\"**/*.md\", \"**/*.ts\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts"
+        ]
       }
     },
     {
@@ -47,7 +61,10 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/cars-node",
         "branch": "master",
-        "include": "[\"**/*.md\", \"**/*.ts\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts"
+        ]
       }
     },
     {
@@ -55,7 +72,11 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/identity-react",
         "branch": "master",
-        "include": "[\"**/*.md\", \"**/*.ts\", \"**/*.tsx\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts",
+          "**/*.tsx"
+        ]
       }
     },
     {
@@ -63,7 +84,11 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/uhrp-react",
         "branch": "master",
-        "include": "[\"**/*.md\", \"**/*.ts\", \"**/*.tsx\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts",
+          "**/*.tsx"
+        ]
       }
     },
     {
@@ -71,7 +96,10 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/storage-server",
         "branch": "master",
-        "include": "[\"**/*.md\", \"**/*.ts\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts"
+        ]
       }
     },
     {
@@ -79,7 +107,10 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/p2p",
         "branch": "main",
-        "include": "[\"**/*.md\", \"**/*.ts\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts"
+        ]
       }
     },
     {
@@ -87,7 +118,10 @@
       "config": {
         "repoUrl": "https;//github.com/bitcoin-sv/message-box-server",
         "branch": "master",
-        "include": "[\"**/*.md\", \"**/*.ts\"]"
+        "include": [
+          "**/*.md",
+          "**/*.ts"
+        ]
       }
     }
   ],
