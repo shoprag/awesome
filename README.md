@@ -22,6 +22,7 @@ _Stay tuned for more examples!_
 Amazing sources from which you can pull your data:
 
 - [**shop-github-repo**](https://github.com/shoprag/shop-github-repo): Easily fetch content directly from GitHub repositories.
+- [**shop-youtube-channel**](https://github.com/shoprag/shop-youtube-channel): A YouTube channel ShopRAG plugin for fetching videos, thumbnails, transcripts, metadata, or audio.
 
 _More Shops coming soon!_
 
